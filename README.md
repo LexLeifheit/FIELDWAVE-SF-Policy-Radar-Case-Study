@@ -16,4 +16,4 @@ This repository is a public-facing, portfolio-safe case study package for demons
 
 ## Positioning Statement
 
-FIELDWAVE SF Policy Radar is best presented as a lightweight legislative intelligence prototype: it turns public meeting agendas into a focused review queue for cultural policy decision-making, while preserving human judgment for high-context policy interpretation.
+FIELDWAVE SF Policy Radar is best presented as a lightweight legislative intelligence prototype: it turns public meeting agendas into a focused review queue for cultural policy decision-making and teamwork, while preserving human judgment for high-context policy interpretation.
