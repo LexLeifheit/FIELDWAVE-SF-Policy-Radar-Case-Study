@@ -2,7 +2,7 @@
 
 ## Executive Summary
 
-FIELDWAVE SF Policy Radar is a lightweight civic intelligence workflow that monitors San Francisco legislative agendas for arts, culture, creative economy, cultural infrastructure, and adjacent policy signals. The system was designed to reduce manual agenda scanning, surface relevant items earlier, and preserve human-in-the-loop policy judgment in a structured review process.
+FIELDWAVE SF Policy Radar is a lightweight civic intelligence workflow that monitors San Francisco legislative agendas for arts, culture, creative economy, cultural infrastructure, and adjacent policy signals. The system was designed to reduce manual agenda scanning, surface relevant items earlier, and preserve human-in-the-loop policy judgment in a structured review process. With modern tools it can be faster and easier to identify policy opportuities, coordinate, and engage.
 
 The public version of this case study intentionally focuses on the problem, product strategy, architecture pattern, and outcomes. It does not disclose private credentials, live workspace data, stakeholder-specific notes, proprietary scoring refinements, or future roadmap details.
 
